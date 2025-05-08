@@ -3,3 +3,7 @@ AAPL,Stock,Technology,US,20,USD,0.033
 TSLA,Stock,Consumer Discretionary,US,20,USD,0.033
 VTI,ETF,Broad Market,US,30,USD,0.033
 0050.TW,ETF,Broad Market,Asia-Pacific,30,TWD,1.0
+GOOGL,Stock,Technology,US,15,USD,
+JPM,Stock,Financial,US,10,USD,
+JNJ,Stock,Healthcare,US,10,USD,
+VNQ,ETF,Real Estate,US,5,USD,
