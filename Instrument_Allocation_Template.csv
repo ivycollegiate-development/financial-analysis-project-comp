@@ -1,0 +1,9 @@
+Ticker	Instrument Type	Sector	Region	Allocation (%)	Currency	Conversion Rate (to TWD)
+AAPL	Stock	Technology	US	15	USD	
+MSFT	Stock	Technology	US	15	USD	
+TSLA	Stock	Automotive	US	10	USD	
+2330.TW	Stock	Technology	Taiwan	20	TWD	
+GOOGL	Stock	Technology	US	15	USD	
+JPM	Stock	Financial	US	10	USD	
+JNJ	Stock	Healthcare	US	10	USD	
+VNQ	ETF	Real Estate	US	5	USD	

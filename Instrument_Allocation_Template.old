@@ -1,0 +1,5 @@
+Ticker,Instrument Type,Sector,Region,Allocation (%),Currency,Conversion Rate (to TWD)
+AAPL,Stock,Technology,US,20,USD,0.033
+TSLA,Stock,Consumer Discretionary,US,20,USD,0.033
+VTI,ETF,Broad Market,US,30,USD,0.033
+0050.TW,ETF,Broad Market,Asia-Pacific,30,TWD,1.0
